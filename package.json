@@ -12,7 +12,6 @@
     "vite": "^5.4.2"
   },
   "dependencies": {
-    "@mcp-b/embedded-agent": "^1.2.3",
     "@mcp-b/global": "^1.2.1"
   }
 }

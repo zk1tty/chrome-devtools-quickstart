@@ -108,6 +108,12 @@ flowchart LR
 3. Chrome DevTools MCP connects to Chrome and exposes `list_webmcp_tools` + `call_webmcp_tool`
 4. AI agents discover and call your tools
 
+**To use in your own project:**
+```bash
+npm install @mcp-b/global
+```
+Then import it before registering tools (see examples below).
+
 ---
 
 ## Example Tools (in this repo)
