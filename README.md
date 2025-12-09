@@ -101,7 +101,7 @@ The AI will navigate to your page, discover the tools, and execute them:
 flowchart LR
     A[AI Client] --> B[Chrome DevTools MCP]
     B -->|CDP| C[Your Website]
-    C -->|@mcp-b/global| D[navigator.modelContext]
+    C -->|mcp-b/global| D[navigator.modelContext]
 
     B -.->|list_webmcp_tools| E[Discovers tools]
     B -.->|call_webmcp_tool| F[Executes tools]
