@@ -1,5 +1,10 @@
 # Chrome DevTools MCP Quickstart
 
+## Motivation
+[Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp/) allows coding agents to debug tools — DOM inspection, console logs, network requests, and performance insights. 
+
+This approach empowres the agent-driven development of [WebMCP](https://github.com/MiguelsPizza/WebMCP) by dramatically reducing the token consumption, in comparison to the previous screen-shot approach.
+
 ![Benchmark Comparison](./assets/benchmark.png)
 
 > Let AI agents interact with your website through Chrome DevTools Protocol + WebMCP tools.
