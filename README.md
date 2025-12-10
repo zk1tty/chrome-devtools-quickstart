@@ -10,6 +10,8 @@
 
 ## How It Works
 
+![How It Works](./assets/image.png)
+
 ```mermaid
 flowchart LR
     A[AI Client] --> B[Chrome DevTools MCP]
