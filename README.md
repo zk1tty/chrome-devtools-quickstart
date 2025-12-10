@@ -7,12 +7,12 @@ This approach empowres the agent-driven development of [WebMCP](https://github.c
 
 > [!NOTE]
 > What is WebMCP?   
-> WebMCP is a new MCP protocol which allows any website to be callable by AI Agents. Technically, WebMCP is a way to embed MCP serviers in websites, expose javascript functionalities to MCP cleints as MCP tools.   
+> WebMCP is a new MCP protocol that makes any website executable by AI Agents. Technically, WebMCP embeds MCP servers in websites, exposing JavaScript functionalities to MCP clients as MCP tools.   
 > Recntly the protocol became [an official W3C web standard✨](https://github.com/webmachinelearning/webmcp).
 
 > [!NOTE]
 > We have [✨ Playground](https://meetchar.ai). Feel free to try! 🤗   
-> If you have any questions or suggesitons, please reach out to us: [MigglesPizza](https://github.com/MiguelsPizza) & [Zkitty](https://x.com/n0rizkitty)
+> If you have any questions or suggesitons, please reach out to us: [MiguelsPizza](https://github.com/MiguelsPizza) & [Zkitty](https://x.com/n0rizkitty)
 
 
 ![Benchmark Comparison](./assets/benchmark.png)
