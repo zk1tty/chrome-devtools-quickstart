@@ -6,13 +6,17 @@
 This approach empowres the agent-driven development of [WebMCP](https://github.com/MiguelsPizza/WebMCP) by dramatically reducing the token consumption, in comparison to the previous screen-shot approach.
 
 > [!NOTE]
-> What is WebMCP?   
+> What is WebMCP?
+> 
+> <img width="500" alt="WebMCP-diagram" src="https://github.com/user-attachments/assets/467518a9-177f-4f80-9569-bc64fdbfe686" />
+> 
 > WebMCP is a new MCP protocol that makes any website executable by AI Agents. Technically, WebMCP embeds MCP servers in websites, exposing JavaScript functionalities to MCP clients as MCP tools.   
 > Recntly the protocol became [an official W3C web standard✨](https://github.com/webmachinelearning/webmcp).
-
-> [!NOTE]
+> 
 > We have [✨ Playground](https://meetchar.ai). Feel free to try! 🤗   
-> If you have any questions or suggesitons, please reach out to us: [MiguelsPizza](https://github.com/MiguelsPizza) & [Zkitty](https://x.com/n0rizkitty)
+> If you have any questions or suggesitons, [MiguelsPizza](https://github.com/MiguelsPizza) & [Zkitty](https://x.com/n0rizkitty)
+
+[![Join Our Discord](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a9fBR6Bw)
 
 
 ![Benchmark Comparison](./assets/benchmark.png)
