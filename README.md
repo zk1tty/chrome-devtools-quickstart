@@ -1,13 +1,10 @@
 # Chrome DevTools MCP Quickstart
-
 > Give AI agents direct access to your website's functionality—no screenshots, no DOM scraping, just structured tool calls.
-
-## Why This Matters
 
 > [!NOTE]
 > What is WebMCP?
 > 
-> <img width="500" alt="WebMCP-diagram" src="https://github.com/user-attachments/assets/467518a9-177f-4f80-9569-bc64fdbfe686" />
+> <img width="500" alt="WebMCP-diagram" src="https://github.com/user-attachments/assets/82041b87-b464-4c29-8219-cb765429286d" />
 > 
 > WebMCP is a new MCP protocol that makes any website executable by AI Agents. Technically, WebMCP embeds MCP servers in websites, exposing JavaScript functionalities to MCP clients as MCP tools.   
 > Recntly the protocol became [an official W3C web standard✨](https://github.com/webmachinelearning/webmcp).
@@ -17,6 +14,8 @@
 
 [![Join Our Discord](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a9fBR6Bw)
 
+
+## Why This Matters
 **Up to 89% fewer tokens** compared to screenshot-based workflows.
 
 ![Benchmark Comparison](./assets/benchmark.png)
